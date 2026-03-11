@@ -1,4 +1,4 @@
-# Hi, I'm Mahmut Erdem YILDIRIM 👋
+# Hi, I'm Erdem 👋
 
 [cite_start]I am a Computer Engineering Student at Middle East Technical University (METU) [cite: 4][cite_start], currently serving as the President of the Board of Directors for the METU ACM Student Chapter[cite: 7]. My technical focus lies at the intersection of Artificial Intelligence, Computer Vision, and robust algorithmic design.
 
