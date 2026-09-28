@@ -8,7 +8,7 @@ I am a Computer Engineering Student at Middle East Technical University (METU), 
 * **Core Engineering:** Strong foundation and ongoing interest in **Algorithm Design** and **Data Structures** , actively applied in both academic research and algorithmic event coordination (e.g., AlgoMETU'26).
 
 ##  Tech Stack & Tools
-* **Languages:** C/C++ (Advanced), Python (Proficient), C# (Intermediate), Haskell, MATLAB
+* **Languages:** C/C++, Python, C#, Haskell, MATLAB
 * **AI & Data Science:** PyTorch, TensorFlow, LoFTR, NetVLAD
 * **Core Concepts:** Object-Oriented Programming (OOP), Databases 
 * **Game/Simulation Engines:** Unity (Proficient), Unreal Engine
