@@ -1,6 +1,6 @@
 # Hi, I'm Erdem 👋
 
-I am a Computer Engineering Student at Middle East Technical University (METU), currently serving as the President of the Board of Directors for the METU ACM Student Chapter. My technical focus lies at the intersection of Artificial Intelligence, Computer Vision, and robust algorithmic design.
+I am a Computer Engineering Student at Middle East Technical University (METU), currently serving as the President of the Board of Directors for the METU ACM Student Chapter. My technical focus lies at the intersection of Artificial Intelligence, Computer Vision, robust Algorithmic Design, Hardware Engineering, Network.
 
 ##  Current Focus & Research
 * **AI & Real-to-Sim:** Conducting undergraduate research at ROMER, focusing on AI-based Real-to-Sim domain applications.
